@@ -15,7 +15,7 @@ Add the Irys bundle to your HTML:
 ```
 
 
-### 2. Initialize with Solana Wallet
+### 2. Initialize with Wallet
 ```javascript
 const getIrysUploader = async () => {
     if (!wallet) {
