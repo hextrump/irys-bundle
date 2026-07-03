@@ -7,8 +7,13 @@ A simple demonstration of using Irys Network's bundle for decentralized storage.
 ### 1. Include the Bundle
 Add the Irys bundle to your HTML:
 ```html
+https://uploader.irys.xyz/6JwtssVsxFyRj8U7pBfEe2VqToEvtm5gErzaA5jTMvE4
+```
+
+```html
 <script src="https://uploader.irys.xyz/Cip4wmuMv1K3bmcL4vYoZuV2aQQnnzViqwHm6PCei3QX/bundle.js"></script>
 ```
+
 
 ### 2. Initialize with Solana Wallet
 ```javascript
